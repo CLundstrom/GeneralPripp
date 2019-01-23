@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Lugna Favoriter",
+    "Url": " http://fm03-icecast.mtg-r.net/fm03_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1518548711",
+    "Description": " Smöriga hits"
+  },
+  {
+    "Name": "P3",
+    "Url": " http://live-cdn.sr.se/pool1/p3/p3.isml/p3-audio=192000.m3u8",
+    "Description": " Åsiktskorridens propagandacenter"
+  },
+  {
+    "Name": "Radio Blyat",
+    "Url": " http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps",
+    "Description": " Idi nahui suka bläät"
+  },
+  {
+    "Name": "Dansbandskanalen",
+    "Url": " http://stream.dbmedia.se/dbk96",
+    "Description": " 😍 "
+  },
+  {
+    "Name": "Bandit Rock",
+    "Url": " http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web",
+    "Description": " 🤘 "
+  },
+  {
+    "Name": "Megaton Cafe Radio",
+    "Url": " http://us2.internet-radio.com:8443/;stream",
+    "Description": " Blues & Jazz"
+  },
+  {
+    "Name": "Smooth Jazz Florida",
+    "Url": " http://us1.internet-radio.com/proxy/dougwsjf?mp=/;",
+    "Description": " 🇺🇸"
+  },
+  {
+    "Name": "Guldkanalen 80-tal",
+    "Url": " http://stream.dbmedia.se/gk80talMP3",
+    "Description": " 80's dygnet runt"
+  }
+]
